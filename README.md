@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Klim</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-- 🔭 I’m currently working on **Machine Learning Predicting Algorithms**
+- 🔭 I’m currently working on: **Machine Learning Predicting Algorithms**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning: **TensorFlow**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on: **Data Science Projects**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with: **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/klimvg?tab=repositories](https://github.com/klimvg?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/klimvg?tab=repositories](https://github.com/klimvg?tab=repositories)
 
-- ⚡ Fun fact **I play D&D**
+- ⚡ Fun fact: **I play D&D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
