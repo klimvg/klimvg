@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Machine Learning Predicting Algorithms**
 
-- 🌱 I’m currently learning: **TensorFlow**
+- 🌱 I’m currently learning: **PyTorch**
 
 - 👯 I’m looking to collaborate on: **Data Science Projects**
 
